@@ -337,9 +337,9 @@ Before I forget, the first thing you'll want to do is destroy your resources so 
 $ terraform destroy
 ```
 
-I've also uploaded this article and relevant `.TF` file content to the following repository, if you just want to clone and play with this solution or use it as a template:
+I've also uploaded this article to dev.to, if you just want to read through a more polished writeup:
 
-  [https://github.com/Tythos/aws-tf-single](https://github.com/Tythos/aws-tf-single)
+  [https://dev.to/tythos/aws-terraform-for-single-containers-5dkf](https://dev.to/tythos/aws-terraform-for-single-containers-5dkf)
 
 More to the point, though, a conclusion to our experiment. Why was this so painful? Similar activities in Azure or DigitalOcean will take one, maybe two, resources and will deploy at the drop of a hat. What's so special about AWS?
 
